@@ -1,7 +1,7 @@
     Ko'palov Muhammadjon
 kupalovv.muhammadjon@gmail.com | https://www.linkedin.com/in/muhammadjon-ko-palov-81a584217 | https://leetcode.com/kmuhammadjon
-SKILLS
 
+SKILLS
 Backend Development: Go, Microservices, REST API, Git, GitHub, GitLab, Linux, gRPC, HTTP, Docker, RabbitMQ, Kafka, Gin, GorillaMux, Swagger, Casbin, JWT, Unit Testing, C, Python
 Database Systems: PostgreSQL, MySQL, MongoDB, Redis
 Languages: Uzbek(Native), English(C1, IELTS 7.0)
